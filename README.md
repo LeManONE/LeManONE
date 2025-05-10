@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to my profile 👋
+
+My skills:
+- Docker, VM, Linux (Debian based - one love or Arch)
+- Minecraft JAVA/Bedrock server (PurPur and Paper one love)
+- Network and system administration
+- Database development and support
+- Server maintenance and repair
 
 <!--
 **LeManONE/LeManONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
