@@ -6,6 +6,16 @@ My skills:
 - Network and system administration
 - Database development and support
 - Server maintenance and repair
+- Programming (C/C++, HTML, CSS, JS)
+
+## About me 😴
+I am developing in the field of DevOps, actively exploring new network technologies and working with server hardware.
+Name: Artem
+Yo: 19
+From: Russia
+
+## What will I publish? 🎯
+I will publish various utilities, Docker container images, configuration files, and lessons that will be useful for network engineers.
 
 <!--
 **LeManONE/LeManONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
