@@ -10,9 +10,9 @@ My skills:
 
 ## About me 😴
 I am developing in the field of DevOps, actively exploring new network technologies and working with server hardware.
-Name: Artem
-Yo: 19
-From: Russia
+- Name: Artem
+- Yo: 19
+- From: Russia
 
 ## What will I publish? 🎯
 I will publish various utilities, Docker container images, configuration files, and lessons that will be useful for network engineers.
