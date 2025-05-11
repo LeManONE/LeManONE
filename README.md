@@ -1,7 +1,7 @@
 ## Welcome to my profile! 
 
 # 💫 About Me:
-I am developing in the field of DevOps, actively exploring new network technologies and working with server hardware.<br>Name: Artem<br>Yo: 19<br>From: Russia
+I am developing in the field of DevOps, actively exploring new network technologies and working with server hardware.<br>Name: Artem<br>Yo: 19[20.06]<br>From: Russia Federation
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
