@@ -24,5 +24,5 @@ I am developing in the field of DevOps, actively exploring new network technolog
 
 <div align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=LeManONE&theme=black-ice"></td><td width="50%" align="center"> <br>
-  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LeManONE&theme=black-ice&hide_border=false&no-bg=true&no-frame=true&langs_count=6"> 
+  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LeManONE&theme=blue-navy&hide_border=false&no-bg=true&no-frame=true&langs_count=6"> 
 </div>
