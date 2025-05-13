@@ -4,8 +4,6 @@
 I am developing in the field of DevOps, actively exploring new network technologies and working with server hardware.<br>Name: Artem<br>Yo: 19 (20.06.2006)<br>From: Russia Federation / Ekaterinburg
 
 # 💻 Tech Stack:
-<div align="center">
-  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,8 +21,6 @@ I am developing in the field of DevOps, actively exploring new network technolog
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
 
 <div align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=LeManONE&theme=dark"></td><td width="50%" align="center"> <br>
