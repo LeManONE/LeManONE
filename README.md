@@ -1,7 +1,14 @@
 ## Welcome to my profile! 
 
 # 💫 About Me:
-I am developing in the field of DevOps, actively exploring new network technologies and working with server hardware.<br>Name: Artem<br>Yo: 19 (20.06.2006)<br>From: Russia Federation / Ekaterinburg
+I am developing in the field of DevOps, actively exploring new network technologies and working with server hardware.<br>Name: Artem<br>Yo: 19 (20.06.2006)<br>From: Russia Federation / Ekaterinburg<br>
+## My skills:
+- Docker, VM, Linux (Debian based - one love)
+- Dev Mnecraft JAVA/Bedrock server
+- Programming
+- Network and system administration
+- Database development and support
+- Server maintenance and repair
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -22,5 +29,4 @@ I am developing in the field of DevOps, actively exploring new network technolog
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=LeManONE&theme=black-ice"></td><td width="50%" align="center"> <br>
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LeManONE&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"> 
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=LeManONE&theme=black-ice"></td><td width="50%" align="center"> <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LeManONE&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"> 
