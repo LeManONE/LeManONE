@@ -26,6 +26,5 @@ I am developing in the field of DevOps, actively exploring new network technolog
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br/>
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <td width="45%"align="center"><img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LeManONE&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"><img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=LeManONE&theme=black-ice"></td>
